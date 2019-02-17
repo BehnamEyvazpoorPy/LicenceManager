@@ -1,0 +1,15 @@
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\LicenceManager.UI.exe.config
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\LicenceManager.UI.exe
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\LicenceManager.UI.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\obj\Debug\LicenceManager.UI.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\obj\Debug\LicenceManager.UI.Form1.resources
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\obj\Debug\LicenceManager.UI.Properties.Resources.resources
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\obj\Debug\LicenceManager.UI.csproj.GenerateResource.Cache
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\obj\Debug\LicenceManager.UI.exe
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\obj\Debug\LicenceManager.UI.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\LicenceManager.Core.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\LicenceManager.Core.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\EntityFramework.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\EntityFramework.xml
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.UI\bin\Debug\EntityFramework.SqlServer.xml

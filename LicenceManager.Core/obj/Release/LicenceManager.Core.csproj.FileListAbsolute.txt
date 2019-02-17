@@ -1,0 +1,5 @@
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\bin\Release\LicenceManager.Core.dll.config
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\bin\Release\LicenceManager.Core.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\bin\Release\LicenceManager.Core.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\obj\Release\LicenceManager.Core.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\obj\Release\LicenceManager.Core.pdb

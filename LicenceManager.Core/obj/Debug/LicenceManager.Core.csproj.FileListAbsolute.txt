@@ -1,0 +1,6 @@
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\bin\Debug\LicenceManager.Core.dll.config
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\bin\Debug\LicenceManager.Core.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\bin\Debug\LicenceManager.Core.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\obj\Debug\LicenceManager.Core.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\obj\Debug\LicenceManager.Core.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core\obj\Debug\LicenceManager.Core.csprojResolveAssemblyReference.cache

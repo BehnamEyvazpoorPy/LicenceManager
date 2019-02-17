@@ -1,0 +1,8 @@
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\bin\Release\LicenceManager.Core.Test.dll.config
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\bin\Release\LicenceManager.Core.Test.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\bin\Release\LicenceManager.Core.Test.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\bin\Release\LicenceManager.Core.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\bin\Release\LicenceManager.Core.pdb
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\obj\Release\LicenceManager.Core.Test.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\obj\Release\LicenceManager.Core.Test.dll
+E:\Programming\Work\Cilinic\KookCilinic\LicenceManager.Core.Test\obj\Release\LicenceManager.Core.Test.pdb
